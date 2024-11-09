@@ -55,4 +55,7 @@ I'm a passionate Frontend Web Developer with an enthusiasm for learning new tech
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=molza01&show_icons=true&locale=en" alt="molza01" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=molza01&" alt="molza01" /></p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Molza01&hide_total_contributions=true&hide_current_streak=true&hide_longest_streak=true)](https://git.io/streak-stats)
+
+
+
