@@ -73,11 +73,18 @@ I'm a passionate Frontend Web Developer with an enthusiasm for learning new tech
 
 
 
+
+
+### GitHub Stats
+
+![Molza01's GitHub stats](https://github-readme-stats.vercel.app/api?username=Molza01&show_icons=true&theme=radical)
+![Molza01's Streak](https://streak-stats.demolab.com/?user=Molza01&theme=radical)
+
+
+
+
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=molza01&show_icons=true&locale=en&layout=compact" alt="molza01" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=molza01&show_icons=true&locale=en" alt="molza01" /></p>
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Molza01&hide_total_contributions=true&hide_current_streak=true&hide_longest_streak=true)](https://git.io/streak-stats)
 
 
 
