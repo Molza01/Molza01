@@ -1,3 +1,16 @@
+
+
+
+
+
+![persohoto](https://github.com/user-attachments/assets/d2a13525-7830-4f9e-961b-951070e20e1b)
+
+
+
+
+
+
+
 # Hey there, I'm Sandesh Shinde 👋
 
 ## aka Sandy | Frontend Web Developer 🌐 | Exploring Full Stack Development 🔍
