@@ -81,7 +81,7 @@ I'm a passionate Frontend Web Developer with an enthusiasm for learning new tech
 <p align="left">
 <a href="https://linkedin.com/in/sandesh shinde - linkedin 💼" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sandesh shinde - linkedin 💼" height="30" width="40" /></a>
 <a href="https://instagram.com/sandesh shinde - instagram 📸" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sandesh shinde - instagram 📸" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.com/channels/@me" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.com/channels/@me" height="30" width="40" /></a>
+<a href="https://discord.com/channels/1305234832904949823/1305234832904949825"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.com/channels/@me" height="30" width="40" /></a>
 </p>
 
 
