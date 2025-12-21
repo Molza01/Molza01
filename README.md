@@ -13,7 +13,7 @@
 
 # Hey there, I'm Sandesh Shinde 👋
 
-## aka Sandy | Frontend Web Developer 🌐 | Exploring Full Stack Development 🔍
+## aka Sandy |  Full Stack Web Developer 🔍
 
 I'm a passionate Frontend Web Developer with an enthusiasm for learning new technologies and tools. Currently, I'm diving into full-stack web development, and I enjoy building dynamic, user-friendly websites and web applications. 
 
