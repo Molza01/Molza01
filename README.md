@@ -58,10 +58,8 @@ I'm a passionate developer focused on building innovative solutions and contribu
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Molza01&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Molza01&theme=onedark&no-frame=false&margin-w=15" alt="GitHub Trophies" />
 </div>
-
----
 
 ## 🌟 Open Source Contributions
 
