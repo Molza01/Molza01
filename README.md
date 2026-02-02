@@ -87,7 +87,7 @@ I'm a passionate developer focused on building innovative solutions and contribu
 ## 📈 Profile Views
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Molza01&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </div>
 
 ---
@@ -97,5 +97,5 @@ I'm a passionate developer focused on building innovative solutions and contribu
 </div>
 
 <div align="center">
-  <p><i>⭐ From [YOUR_USERNAME](https://github.com/YOUR_USERNAME) - Feel free to star my repositories if you find them interesting!</i></p>
+  <p><i>⭐ From [Molza01]([https://github.com/Molza01]) - Feel free to star my repositories if you find them interesting!</i></p>
 </div>
