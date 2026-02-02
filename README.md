@@ -55,10 +55,10 @@ I'm a passionate developer focused on building innovative solutions and contribu
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Molza01&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Activity Graph
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Molza01&theme=onedark&no-frame=false&margin-w=15" alt="GitHub Trophies" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Molza01&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
 </div>
 
 ## 🌟 Open Source Contributions
