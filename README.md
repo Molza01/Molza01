@@ -21,9 +21,9 @@ I'm a passionate developer focused on building innovative solutions and contribu
 
 <div align="center">
   
-[![LinkedIn]([https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL](https://www.linkedin.com/in/sandesh-shinde-0255592a2/))
-[![GitHub]([https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](YOUR_GITHUB_URL](https://github.com/Molza01))
-[![Instagram]([https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](YOUR_PORTFOLIO_URL](https://www.instagram.com/sandesh_shinde_05/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sandesh-shinde-0255592a2/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Molza01)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sandesh_shinde_05/)
 
 
 📧 **Email:** [sandeshshinde5002@gmail.com](mailto:sandeshshinde5002@gmail.com)
