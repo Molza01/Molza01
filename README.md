@@ -90,9 +90,6 @@ I'm a passionate developer focused on building innovative solutions and contribu
 
 ---
 
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
-</div>
 
 <div align="center">
   <p><i>⭐ From [Molza01]([https://github.com/Molza01]) - Feel free to star my repositories if you find them interesting!</i></p>
