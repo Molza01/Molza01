@@ -1,3 +1,5 @@
+![persohoto](https://github.com/user-attachments/assets/d2a13525-7830-4f9e-961b-951070e20e1b)
+
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2F81F7&center=true&vCenter=true&random=false&width=435&lines=Hi+there!+👋;I'm+a+Full+Stack+Developer;Welcome+to+my+GitHub!" alt="Typing SVG" />
 </div>
@@ -19,12 +21,12 @@ I'm a passionate developer focused on building innovative solutions and contribu
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](YOUR_TWITTER_URL)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](YOUR_PORTFOLIO_URL)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](YOUR_GITHUB_URL)
+[![LinkedIn]([https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL](https://www.linkedin.com/in/sandesh-shinde-0255592a2/))
+[![GitHub]([https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](YOUR_GITHUB_URL](https://github.com/Molza01))
+[![Instagram]([https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](YOUR_PORTFOLIO_URL](https://www.instagram.com/sandesh_shinde_05/))
 
-📧 **Email:** [your.email@gmail.com](mailto:your.email@gmail.com)
+
+📧 **Email:** [sandeshshinde5002@gmail.com](mailto:sandeshshinde5002@gmail.com)
 
 </div>
 
