@@ -1,4 +1,4 @@
-![persohoto](banner.png)
+![persohoto](.png)
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2F81F7&center=true&vCenter=true&random=false&width=435&lines=Hi+there!+👋;I'm+a+Full+Stack+Developer;Welcome+to+my+GitHub!" alt="Typing SVG" />
